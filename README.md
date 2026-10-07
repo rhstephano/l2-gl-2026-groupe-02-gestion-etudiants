@@ -11,25 +11,27 @@ suppression et recherche. Réalisée avec **Vue.js 3** et **Vite**.
 
 ## 👥 Membres du groupe (13)
 
-| # | Nom et prénom | GitHub | Pôle | Fichier(s) dont il est responsable | Commits |
-|---|---------------|--------|------|------------------------------------|---------|
-| 1 | *À REMPLIR* | `@...` | 1 — Noyau | `src/composables/useEtudiants.js` | — |
-| 2 | *À REMPLIR* | `@...` | 1 — Noyau | `src/App.vue` | — |
-| 3 | *À REMPLIR* | `@...` | 2 — Formulaire | `src/components/FormulaireEtudiant.vue` | — |
-| 4 | *À REMPLIR* | `@...` | 2 — Formulaire | `src/utils/validation.js` | — |
-| 5 | *À REMPLIR* | `@...` | 3 — Tableau | `src/components/ListeEtudiants.vue` | — |
-| 6 | *À REMPLIR* | `@...` | 3 — Tableau | `src/components/LigneEtudiant.vue` | — |
-| 7 | *À REMPLIR* | `@...` | 4 — Recherche | `src/components/BarreRecherche.vue` | — |
-| 8 | *À REMPLIR* | `@...` | 4 — Recherche | `src/components/FiltresEtudiants.vue` | — |
-| 9 | *À REMPLIR* | `@...` | 5 — Stats | `src/components/StatistiquesEtudiants.vue` | — |
-| 10 | *À REMPLIR* | `@...` | 5 — Stats | `src/components/ModaleConfirmation.vue` | — |
-| 11 | *À REMPLIR* | `@...` | 6 — Outils | `src/components/ImportExport.vue` | — |
-| 12 | *À REMPLIR* | `@...` | 6 — Design | `src/style.css` | — |
-| 13 | *À REMPLIR* | `@...` | 6 — Doc | `README.md`, `captures/` | — |
+| # | Nom et prénom | N° d'inscription | GitHub | Pôle | Fichier(s) dont il est responsable | Commits |
+|---|---------------|------------------|--------|------|------------------------------------|---------|
+| 1 | *RANDRIARIMALALA Heriniaina Stephano* | *N° 13ISST24-1665FGCI/GInfo* | `@rhstephano` | 1 — Noyau | `src/composables/useEtudiants.js` | — |
+| 2 | *À REMPLIR* | *N° …* | `@...` | 1 — Noyau | `src/App.vue` | — |
+| 3 | *À REMPLIR* | *N° …* | `@...` | 2 — Formulaire | `src/components/FormulaireEtudiant.vue` | — |
+| 4 | *À REMPLIR* | *N° …* | `@...` | 2 — Formulaire | `src/utils/validation.js` | — |
+| 5 | *À REMPLIR* | *N° …* | `@...` | 3 — Tableau | `src/components/ListeEtudiants.vue` | — |
+| 6 | *À REMPLIR* | *N° …* | `@...` | 3 — Tableau | `src/components/LigneEtudiant.vue` | — |
+| 7 | *À REMPLIR* | *N° …* | `@...` | 4 — Recherche | `src/components/BarreRecherche.vue` | — |
+| 8 | *À REMPLIR* | *N° …* | `@...` | 4 — Recherche | `src/components/FiltresEtudiants.vue` | — |
+| 9 | *À REMPLIR* | *N° …* | `@...` | 5 — Stats | `src/components/StatistiquesEtudiants.vue` | — |
+| 10 | *À REMPLIR* | *N° …* | `@...` | 5 — Stats | `src/components/ModaleConfirmation.vue` | — |
+| 11 | *À REMPLIR* | *N° …* | `@...` | 6 — Outils | `src/components/ImportExport.vue` | — |
+| 12 | *À REMPLIR* | *N° …* | `@...` | 6 — Design | `src/style.css` | — |
+| 13 | *À REMPLIR* | *N° …* | `@...` | 6 — Doc | `README.md`, `captures/` | — |
 
 ### Preuve objective des contributions
 
-Sortie de `git shortlog -sn --no-merges` (à coller ici avant le rendu) :
+Sortie de `git shortlog -sn --no-merges` (à coller ici avant le rendu).
+Git n'affiche que le nom : c'est le tableau ci-dessus qui fait le lien
+entre le nom, le numéro d'inscription et le pseudo GitHub.
 
 ```text
     12  Prénom Nom
