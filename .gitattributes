@@ -1,0 +1,40 @@
+# ============================================================
+#  Normalisation des fins de ligne — équipe mixte Windows/Linux
+# ------------------------------------------------------------
+#  Sans ce fichier, un Windows et un Linux qui enregistrent le
+#  MÊME fichier produisent deux versions différentes pour Git
+#  (CRLF contre LF). Résultat : "1265 lignes modifiées" alors
+#  que personne n'a rien changé, et des conflits permanents.
+#
+#  Ici : tout est stocké en LF dans le dépôt, et Git reconvertit
+#  automatiquement sur chaque machine. Personne n'a rien à faire.
+# ============================================================
+
+# Par défaut : Git détecte les fichiers texte et les stocke en LF
+* text=auto eol=lf
+
+# Fichiers texte explicites
+*.vue      text eol=lf
+*.js       text eol=lf
+*.json     text eol=lf
+*.html     text eol=lf
+*.css      text eol=lf
+*.md       text eol=lf
+*.yml      text eol=lf
+*.sh       text eol=lf
+
+# Scripts Windows : doivent garder des fins de ligne Windows
+*.bat      text eol=crlf
+*.cmd      text eol=crlf
+*.ps1      text eol=crlf
+
+# Fichiers binaires : ne jamais y toucher
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.webp     binary
+*.ico      binary
+*.pdf      binary
+*.woff     binary
+*.woff2    binary
