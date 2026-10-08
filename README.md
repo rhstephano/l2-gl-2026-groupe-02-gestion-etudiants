@@ -16,7 +16,7 @@ suppression et recherche. Réalisée avec **Vue.js 3** et **Vite**, sans aucun b
 | # | Nom et prénom | N° d'inscription | Compte GitHub | Fichier(s) réalisé(s) |
 |---|---------------|------------------|---------------|------------------------|
 | 1 | **RANDRIARIMALALA Heriniaina Stephano** *(chef de groupe)* | 13ISST24-1665FGCI/GInfo | `@rhstephano` | `useEtudiants.js`, `StatistiquesEtudiants.vue`, `ModaleConfirmation.vue`, `ImportExport.vue`, `style.css`, `captures/` |
-| 2 | **RAHARIMALALA Sarobidy Veronique** | 13ISST24-16 | `@sarobidyveronique` | `src/App.vue` |
+| 2 | **RAHARIMALALA Sarobidy Veronique** | 13ISST24-1683FGCI/GInfo | `@sarobidyveronique` | `src/App.vue` |
 | 3 | **CHARLES Mario Fanoina** | 13ISST24-1749FGCI/GInfo | `@charles15012006-netizen` | `src/components/FormulaireEtudiant.vue` |
 | 4 | **SUSCKA Natalie** | 13ISST24-1542FGCI/GInfo | `@yaadonitch-sys` | `src/utils/validation.js` |
 | 5 | **RAFAMANTANATSOA Nickas** | 13ISST24-1668FGCI/GInfo | `@nickanicka661-max` | `src/components/ListeEtudiants.vue` |
