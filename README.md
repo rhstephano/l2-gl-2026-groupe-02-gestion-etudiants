@@ -25,9 +25,6 @@ suppression et recherche. Réalisée avec **Vue.js 3** et **Vite**, sans aucun b
 | 8 | **RAKOTOMALALA Christ Innocent** | 13ISST24-1746FGCI/GInfo | `@Innocent619` | `src/components/FiltresEtudiants.vue` |
 | 9 | **LAZA TSIVERY Jean François** | 13ISST24-1750FGCI/GInfo | `@jeanfrancoishuge-lang` | `README.md` — documentation du projet |
 
-> **Vérification des contributions.** Chaque membre a déposé son fichier **depuis son
-> propre compte GitHub**. L'historique est consultable dans l'onglet **Commits** et
-> le récapitulatif dans **Insights → Contributors**.
 
 ---
 
@@ -291,18 +288,6 @@ Pour réinitialiser les données : ouvrir la console du navigateur (`F12`), tape
 
 ---
 
-## 🌿 Organisation Git
-
-Le dépôt a été créé dès le premier jour du projet et **chaque membre y a déposé son
-fichier depuis son propre compte GitHub**, afin que l'historique reflète fidèlement
-la participation de chacun.
-
-- **1 membre = 1 fichier = 1 responsable unique.** Ce découpage a été décidé avant
-  d'écrire la moindre ligne de code : il évite que deux personnes modifient le même
-  fichier et supprime donc tout risque de conflit de fusion.
-- Les messages de commit sont rédigés en français et décrivent l'action réalisée
-  (par exemple *« Ajout de la barre de recherche par nom »*).
-- L'enseignant **@GasyCoder** a été ajouté comme collaborateur du dépôt.
 
 Historique vérifiable dans les onglets **Commits** et **Insights → Contributors**.
 
